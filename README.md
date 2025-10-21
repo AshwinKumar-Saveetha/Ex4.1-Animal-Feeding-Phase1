@@ -1,4 +1,4 @@
-# Ex4.1-Animal-Feeding-Phase1
+# Ex3.1-Animal-Feeding-Phase1
 ## Aim :
 
 To develop a animal feeding game-Phase-1 using unity.
